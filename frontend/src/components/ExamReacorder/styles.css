@@ -1,0 +1,26 @@
+/* ExamVideoRecorder uchun maxsus stil */
+.exam-recorder {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .exam-recorder video {
+    border: 2px solid #ccc;
+    margin-top: 10px;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .exam-recorder button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .exam-recorder button:hover {
+    background-color: #45a049;
+  }
+  

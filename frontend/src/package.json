@@ -1,0 +1,12 @@
+{
+  "name": "shaffof-exam",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "react-scripts start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
